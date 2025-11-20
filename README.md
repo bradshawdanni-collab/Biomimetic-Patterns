@@ -1,2 +1,13 @@
-# Biomimetic-Patterns
-Sketches, diagrams, and ideas for tendon-inspired reinforcement patterns, finger-trap geometry, and natural load distribution.
+Biomimetic Patterns
+
+Studies of natural geometry used for soft reinforcement.
+
+Includes
+	•	Tendon-inspired mesh sketches
+	•	Spiral and lattice load-paths
+	•	Finger-trap geometry
+	•	Pattern behaviour notes
+
+Purpose
+
+To develop pattern systems that stabilise movement gently and efficiently.
